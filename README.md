@@ -67,17 +67,11 @@ Styling is achieved using CSS, and components are designed with a focus on respo
 You will see the UI is in only in static mode you have to provide functionality by writing code in following funcions -
 Developers are required to complete the code in the `stubs` branch under the   `src/components/TaskList.js` file. The following functions need to be implemented:
 
-
-fetchTasks()        
-
-handleCreateTask()          
-
-handleUpdateTask()
-
-handleDeleteTask()
-
-handleEditTask()
-
+Functionality of 
+1. Getting list of tasks
+2. Able to create task
+3. Able to update the task by id
+4. Able to delete the task
 
 Ensure that the logic is appropriately implemented, considering the task management features of creating, updating, and deleting tasks. Please refer to the provided comments and placeholders in the TaskList.js file for guidance on where to complete the code.
 
