@@ -34,6 +34,7 @@ then for Frontend part -
 
 1. Clone the repository and switch to the `Stubs` branch.
 2. Install the required Node modules by running `npm install`.
+3. Start the application by running `npm start`
 
 # Project Architecture (FRONTEND)
 
