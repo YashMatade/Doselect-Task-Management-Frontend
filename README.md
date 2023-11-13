@@ -66,7 +66,7 @@ Styling is achieved using CSS, and components are designed with a focus on respo
 
 You will see the UI is in static mode you have to provide functionality by writing code. Developers are required to complete the code in the `stubs` branch under the   `src/components/TaskList.js` file. The following functions need to be implemented:
 1. Create task
-2. Updated task
+2. Update task
 3. Get the list of task
 4. Delete the task
 
