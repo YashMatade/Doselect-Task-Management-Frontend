@@ -66,10 +66,19 @@ Styling is achieved using CSS, and components are designed with a focus on respo
 ## Development Instructions
 
 You will see the UI is in static mode you have to provide functionality by writing code. Developers are required to complete the code in the `stubs` branch under the   `src/components/TaskList.js` file. The following functions need to be implemented:
-1. Create task
-2. Update task
-3. Get the list of task
-4. Delete the task
+1. Create task -
+  - After creating a task, ensure that it seamlessly joins the list of tasks.
+  - In the list of added tasks, implement functionality to edit the task title and description.
+  - On clicking the "Edit" button, transform the table row into an input box that can receive input. The "Edit" button should be updated to "Update." After clicking "Update," the 
+    edited task should be updated.
+2. Update task -
+  - Provide a smooth mechanism to update an existing task. After updating the task, ensure the changes are reflected appropriately.
+3. Get the list of task -
+  - Retrieve the list of tasks and display them effectively.
+4. Delete the task -
+  - Implement a robust mechanism to delete a task. After deletion, make sure the task is removed from the list.
+
+Remember to maintain a user-friendly experience and handle edge cases gracefully.
 
 Ensure that the logic is appropriately implemented, considering the task management features of creating, updating, and deleting tasks. Please refer to the provided comments and placeholders in the TaskList.js file for guidance on where to complete the code.
 
