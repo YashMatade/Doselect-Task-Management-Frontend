@@ -63,9 +63,9 @@ The application uses React hooks for state management, allowing components to ma
 Styling is achieved using CSS, and components are designed with a focus on responsiveness and a clean, intuitive user interface.
 
 
-## Development Instructions
+## Developer Instructions
 
-You will see the UI is in static mode you have to provide functionality by writing code. Developers are required to complete the code in the `stubs` branch under the   `src/components/TaskList.js` file. The following functions need to be implemented:
+Developers are required to complete the code in the `stubs` branch under the   `src/components/TaskList.js` file. The following functions need to be implemented:
 1. Create task -
   - After creating a task, ensure that it seamlessly joins the list of tasks.
   - In the list of added tasks, implement functionality to edit the task title and description.
